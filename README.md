@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on: A app concept leveraging Apple Vision Pro and iPhone, integrating various services into a seamless experience.<br>🤝 I’m looking to collaborate on: Innovative projects that push the boundaries of mobile technology and user experience.<br>🧠 I’m looking for help with: Advanced Python development and cloud architecture.<br>🌱 I’m currently learning: React, AWS, and Python to enhance my full-stack development skills.<br>💬 Ask me about: My experience with React.js, Node.js, and the 200+ LeetCode problems I’ve solved.<br>⚡ Fun fact: I’m fascinated by the concept of time travel.
+🚀 I’m currently working on: A app concept leveraging Apple Vision Pro and iPhone, integrating various services into a seamless experience.<br>🤝 I’m looking to collaborate on: Innovative projects that push the boundaries of web and mobile technology and user experience.<br>🧠 I’m looking for help with: Advanced Python development and cloud architecture.<br>🌱 I’m currently learning: Go, React, AWS, and Python to enhance my full-stack development skills.<br>💬 Ask me about: My experience with React.js, Node.js, and the 200+ LeetCode problems I’ve solved.<br>⚡ Fun fact: I’m fascinated by the concept of time travel.
 
 
 ## 🌐 Socials:
